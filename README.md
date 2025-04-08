@@ -1,7 +1,3 @@
-Here’s your content converted into a clean, structured `README.md` file for **KukuVerse**:
-
----
-
 # KukuVerse – Interactive Audio Stories
 
 **KukuVerse** is a Streamlit web application that creates interactive, *choose-your-own-adventure* style audio stories using AI. The app generates story content, narrates it using text-to-speech, and lets users make choices that determine how the story unfolds.
@@ -139,7 +135,3 @@ A built-in sample story **"The Venture Gamble"** is included.
 **KukuVerse** demonstrates the power of combining AI, text-to-speech, and interactive storytelling to deliver a unique narrative experience. Its modular design makes it easy to understand, extend, and personalize.
 
 Happy story-building! 🎙️📚✨
-
----
-
-Let me know if you'd like me to generate a badge section, Streamlit deployment tips, or add images/gifs to this README!
