@@ -102,18 +102,23 @@ A built-in sample story **"The Venture Gamble"** is included.
 > It follows an ambitious tech entrepreneur willing to risk everything for their startup dream.
 
 - Filling all entries
+  
 ![Filling all entries](https://github.com/user-attachments/assets/48a4ec63-c31f-4807-b13d-56eb49ad528c)
 
 - Story starting
+  
 ![Story starting](https://github.com/user-attachments/assets/03f0798f-9949-4b8b-8798-b378a059ce0a)
 
 - Selecting Option
+  
 ![Selecting Option](https://github.com/user-attachments/assets/846090d2-ae2e-4bcd-a037-b9b7e4bb062d)
 
 - Processing next option
+  
 ![Processing next option](https://github.com/user-attachments/assets/89bef92a-bafd-45cf-8580-ba6ca8c51c89)
 
 - Next Part of story after selecting option
+  
 ![Next Part of story after selecting option](https://github.com/user-attachments/assets/cb03f3c4-0f63-457c-b7fb-1172135a4ba1)
 
 - As Continues….
